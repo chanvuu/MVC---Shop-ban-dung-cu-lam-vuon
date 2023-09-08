@@ -1,0 +1,95 @@
+﻿@model Shop.N8.Models.ProductVM
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<form method="post" asp-action="CreateUpdate" enctype="multipart/form-data">
+    <input type="hidden" asp-for="Product.Id" />
+    <input type="hidden" asp-for="Product.ImageUrl" />
+    <img src="@Model.Product.ImageUrl" width="100" height="100"/>
+
+    <div class="border p-3 mt-4">
+        <div class="row pb-3">
+            <h2 class="text-primary">@((Model.Product == null || Model.Product.Id == 0) ? "Create" : "Update") Product</h2>
+            <hr />
+        </div>
+        <div asp-validation-summary=All></div>
+
+        <div class="form-group row pb-3">
+            <label asp-for="Product.ProductName"></label>   
+            <input asp-for="Product.ProductName" class="form-control" />
+            <span asp-validation-for="Product.ProductName" class="text-danger"></span>
+        </div>
+
+        <div class="form-group row pb-3">
+            <label asp-for="Product.Description"></label>
+            <input asp-for="Product.Description" class="form-control" />
+            <span asp-validation-for="Product.Description" class="text-danger"></span>
+        </div>
+
+        <div class="form-group row pb-3">
+            <label asp-for="Product.Price"></label>
+            <input asp-for="Product.Price" class="form-control" />
+            <span asp-validation-for="Product.Price" class="text-danger"></span>
+        </div>
+
+        <div class="form-group row pb-3">
+            <label asp-for="Product.Quatity"></label>
+            <input asp-for="Product.Quatity" class="form-control" />
+            <span asp-validation-for="Product.Quatity" class="text-danger"></span>
+        </div>
+
+        <div class="form-group row pb-3">
+            <label asp-for="Product.ImageUrl"></label>
+            <input type="file" id="ImageFile" name="file" class="form-select"/>
+            <span asp-validation-for="Product.ImageUrl" class="text-danger"></span>
+        </div>
+
+        <div class="form-group row pb-3">
+            <label asp-for="Product.Category.CategoryName"></label>
+            <select asp-for="Product.CategoryId" asp-items="@Model.Categories" class="form-control">
+                <option selected disable>--Select Category--</option>
+            </select>                
+            <span asp-validation-for="Product.CategoryId" class="text-danger"></span>
+        </div>
+
+        @if (Model.Product == null || Model.Product.Id == 0)
+        {
+            <button class="btn btn-primary" onclick="return ValidateEmpty()" type="submit">Create</button>
+        }
+        else
+        {
+            <button class="btn btn-primary" type="submit">Update</button>
+        }
+    </div>
+    <a asp-action="Index" asp-controller="Product">Back to list</a>
+</form>
+
+@section script{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+        <script>
+            //tinymce.init({
+                //selector: 'textarea',
+                //plugins: 'anchor autolink charmap codesample emoticons image link lists media searchreplace table visualblocks wordcount checklist mediaembed casechange export formatpainter pageembed linkchecker a11ychecker tinymcespellchecker permanentpen powerpaste advtable advcode editimage tinycomments tableofcontents footnotes mergetags autocorrect typography inlinecss',
+                //toolbar: 'undo redo | blocks fontfamily fontsize | bold italic underline strikethrough | link image media table mergetags | addcomment showcomments | spellcheckdialog a11ycheck typography | align lineheight | checklist numlist bullist indent outdent | emoticons charmap | removeformat',
+                //tinycomments_mode: 'embedded',
+               // tinycomments_author: 'Author name',
+            //});
+
+            function ValidateEmpty() {
+                if(document.getElementById("ImageFile").value=="")
+                {
+                    Swal.fire
+                    ({
+                        icon: 'error',
+                        title: 'Oops...',
+                        text: 'Upload Image',
+                    })
+                    return false;
+                }
+                return true;
+
+            }
+        </script>       
+    }
+}

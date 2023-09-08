@@ -1,0 +1,12 @@
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Service\bin\Debug\net7.0\Shop.Service.deps.json
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Service\bin\Debug\net7.0\Shop.Service.dll
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Service\bin\Debug\net7.0\Shop.Service.pdb
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Service\obj\Debug\net7.0\Shop.Service.csproj.AssemblyReference.cache
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Service\obj\Debug\net7.0\Shop.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Service\obj\Debug\net7.0\Shop.Service.AssemblyInfoInputs.cache
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Service\obj\Debug\net7.0\Shop.Service.AssemblyInfo.cs
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Service\obj\Debug\net7.0\Shop.Service.csproj.CoreCompileInputs.cache
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Service\obj\Debug\net7.0\Shop.Service.dll
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Service\obj\Debug\net7.0\refint\Shop.Service.dll
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Service\obj\Debug\net7.0\Shop.Service.pdb
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Service\obj\Debug\net7.0\ref\Shop.Service.dll

@@ -1,0 +1,17 @@
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Service\obj\Debug\net7.0\Shop.Repository.csproj.AssemblyReference.cache
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Service\obj\Debug\net7.0\Shop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Service\obj\Debug\net7.0\Shop.Repository.AssemblyInfoInputs.cache
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Service\obj\Debug\net7.0\Shop.Repository.AssemblyInfo.cs
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Service\obj\Debug\net7.0\Shop.Repository.csproj.CoreCompileInputs.cache
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Service\bin\Debug\net7.0\Shop.Repository.deps.json
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Service\bin\Debug\net7.0\Shop.Repository.dll
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Service\bin\Debug\net7.0\Shop.Repository.pdb
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Service\bin\Debug\net7.0\Shop.DataAccess.dll
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Service\bin\Debug\net7.0\Shop.Models.dll
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Service\bin\Debug\net7.0\Shop.DataAccess.pdb
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Service\bin\Debug\net7.0\Shop.Models.pdb
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Service\obj\Debug\net7.0\Shop.Repository.csproj.CopyComplete
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Service\obj\Debug\net7.0\Shop.Repository.dll
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Service\obj\Debug\net7.0\refint\Shop.Repository.dll
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Service\obj\Debug\net7.0\Shop.Repository.pdb
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Service\obj\Debug\net7.0\ref\Shop.Repository.dll

@@ -1,0 +1,17 @@
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.DataAccess\bin\Debug\net7.0\Shop.DataAccess.deps.json
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.DataAccess\bin\Debug\net7.0\Shop.DataAccess.runtimeconfig.json
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.DataAccess\bin\Debug\net7.0\Shop.DataAccess.dll
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.DataAccess\bin\Debug\net7.0\Shop.DataAccess.pdb
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.DataAccess\obj\Debug\net7.0\Shop.DataAccess.csproj.AssemblyReference.cache
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.DataAccess\obj\Debug\net7.0\Shop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.DataAccess\obj\Debug\net7.0\Shop.DataAccess.AssemblyInfoInputs.cache
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.DataAccess\obj\Debug\net7.0\Shop.DataAccess.AssemblyInfo.cs
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.DataAccess\obj\Debug\net7.0\Shop.DataAccess.csproj.CoreCompileInputs.cache
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.DataAccess\obj\Debug\net7.0\Shop.DataAccess.csproj.CopyComplete
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.DataAccess\obj\Debug\net7.0\Shop.DataAccess.dll
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.DataAccess\obj\Debug\net7.0\refint\Shop.DataAccess.dll
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.DataAccess\obj\Debug\net7.0\Shop.DataAccess.pdb
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.DataAccess\obj\Debug\net7.0\Shop.DataAccess.genruntimeconfig.cache
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.DataAccess\obj\Debug\net7.0\ref\Shop.DataAccess.dll
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.DataAccess\bin\Debug\net7.0\Shop.Models.dll
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.DataAccess\bin\Debug\net7.0\Shop.Models.pdb

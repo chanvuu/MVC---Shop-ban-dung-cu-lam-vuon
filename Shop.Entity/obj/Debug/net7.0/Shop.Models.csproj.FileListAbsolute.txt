@@ -1,0 +1,12 @@
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Entity\bin\Debug\net7.0\Shop.Models.deps.json
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Entity\bin\Debug\net7.0\Shop.Models.dll
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Entity\bin\Debug\net7.0\Shop.Models.pdb
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Entity\obj\Debug\net7.0\Shop.Models.csproj.AssemblyReference.cache
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Entity\obj\Debug\net7.0\Shop.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Entity\obj\Debug\net7.0\Shop.Models.AssemblyInfoInputs.cache
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Entity\obj\Debug\net7.0\Shop.Models.AssemblyInfo.cs
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Entity\obj\Debug\net7.0\Shop.Models.csproj.CoreCompileInputs.cache
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Entity\obj\Debug\net7.0\Shop.Models.dll
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Entity\obj\Debug\net7.0\refint\Shop.Models.dll
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Entity\obj\Debug\net7.0\Shop.Models.pdb
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Entity\obj\Debug\net7.0\ref\Shop.Models.dll

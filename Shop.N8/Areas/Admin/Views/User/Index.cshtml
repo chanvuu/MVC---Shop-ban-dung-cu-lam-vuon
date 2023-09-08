@@ -1,0 +1,51 @@
+﻿@model Shop.N8.Models.UserVM
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container p-4">
+    <div class="row p-3">
+        <div class="col-6">
+            <h2 class="text-primary">List of User</h2>
+        </div>
+@*        <div class="col-6 text-end">
+            <a class="btn btn-primary" asp-action="CreateUpdate" asp-controller="Category">
+                <i class="bi bi-plus-circle"></i>&nbsp; Create new User
+            </a>
+        </div>*@
+    </div>
+</div>
+
+<table id="myTable" class="table table-bordered table-striped table-responsive" style="width:100%">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>User Name</th>
+            <th>PassWord</th>
+            <th>Address</th>
+            <th>City</th>
+            <th>District</th>
+            <th>PinCode</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+@*    <tbody>
+        @foreach (var item in Model.categories)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.CategoryName</td>
+                <td role="group">
+                    <a asp-action="CreateUpdate" asp-controller="Category" asp-route-id="@item.Id"><i class="bi bi-pencil-square"></i>Edit</a>
+                    <a asp-action="Delete" asp-controller="Category" asp-route-id="@item.Id"><i class="bi bi-trash"></i>Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>*@
+</table>
+
+@section scripts{
+    <script src="~/js/User.js"></script>
+}
+<script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.js"></script>

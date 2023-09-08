@@ -1,0 +1,17 @@
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Utility\bin\Debug\net7.0\Shop.Utility.deps.json
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Utility\bin\Debug\net7.0\Shop.Utility.dll
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Utility\bin\Debug\net7.0\Shop.Utility.pdb
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Utility\bin\Debug\net7.0\Shop.DataAccess.dll
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Utility\bin\Debug\net7.0\Shop.Models.dll
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Utility\bin\Debug\net7.0\Shop.DataAccess.pdb
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Utility\bin\Debug\net7.0\Shop.Models.pdb
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Utility\obj\Debug\net7.0\Shop.Utility.csproj.AssemblyReference.cache
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Utility\obj\Debug\net7.0\Shop.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Utility\obj\Debug\net7.0\Shop.Utility.AssemblyInfoInputs.cache
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Utility\obj\Debug\net7.0\Shop.Utility.AssemblyInfo.cs
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Utility\obj\Debug\net7.0\Shop.Utility.csproj.CoreCompileInputs.cache
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Utility\obj\Debug\net7.0\Shop.Utility.csproj.CopyComplete
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Utility\obj\Debug\net7.0\Shop.Utility.dll
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Utility\obj\Debug\net7.0\refint\Shop.Utility.dll
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Utility\obj\Debug\net7.0\Shop.Utility.pdb
+D:\DoAnThu4\Test\Final\Shop.N8\Shop.Utility\obj\Debug\net7.0\ref\Shop.Utility.dll

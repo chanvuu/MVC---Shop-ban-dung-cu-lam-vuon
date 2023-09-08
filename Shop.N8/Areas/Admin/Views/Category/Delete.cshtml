@@ -1,0 +1,31 @@
+﻿@model Category
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<form method="post" enctype="multipart/form-data">
+    <div class="border p-3 mt-4">
+        <div class="row pb-3">
+            <h2 class="text-primary">Category</h2>
+            <hr />
+        </div>
+        <input type="hidden" asp-for="Id" />
+        <div asp-validation-summary=All></div>
+
+        <div class="row pb-3">
+            <label asp-for="Id"></label>
+            <input asp-for="Id" class="form-control" readonly/>
+        </div>
+        <div class="row pb-3">
+            <label asp-for="CategoryName"></label>
+            <input asp-for="CategoryName" class="form-control" readonly/>
+        </div>
+        <button class="btn btn-primary" type="submit">Delete</button>
+        <a asp-action="Index" asp-controller="Category">Back to list</a>
+    </div>
+</form>
+
+@section script{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
